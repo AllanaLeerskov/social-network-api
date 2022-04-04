@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.2",
+    "mongoose": "^6.2.9",
+    "node": "^17.7.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllanaLeerskov/social-network-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllanaLeerskov/social-network-api/issues"
+  },
+  "homepage": "https://github.com/AllanaLeerskov/social-network-api#readme",
+  "description": ""
+}
